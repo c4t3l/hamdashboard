@@ -35,7 +35,7 @@ const aURL = [
   [
     "0a6ebd",
     "📷 GV FEED",
-    "https://www.youtube.com/embed/loADg1ptgjA",
+    "https://www.youtube.com/embed/HkHhXsWci7Q",
     "1",
   ],
   [
