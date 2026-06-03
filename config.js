@@ -41,7 +41,7 @@ const aURL = [
   [
     "0a6ebd",
     "📷 CON FEED",
-    "https://www.youtube.com/embed/TBqgCHRnTy4",
+    "https://www.youtube.com/embed/UqrwUKSkMEE",
     "1",
   ],
   [
@@ -91,7 +91,7 @@ const aIMG = [
   [
     "TROPICAL OUTLOOK",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png",
-    "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",	  
+    "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
   ],
   [
     "LIGHTNING",
@@ -107,8 +107,7 @@ const aIMG = [
   ],
   [
     "CLIMATE",
-    "https://www.weather.gov/images/hgx/climate/KIAH2024plot.png",
-    "https://www.weather.gov/images/hgx/climate/KIAH202408plot.png",
+    "https://www.weather.gov/images/hgx/climate/climate_KIAH_2026.png",
   ],
   [
     "US 290 NW",
